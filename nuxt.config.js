@@ -62,6 +62,10 @@ export default {
     // extend(config, ctx) {}
   },
 
+  generate: {
+    fallback: true
+  },
+
   server: {
     port: 4000 // デフォルト: 3000
   }
