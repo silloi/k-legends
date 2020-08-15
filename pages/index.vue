@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        K Legends
+        NiziU Project まとめ
       </h1>
       <h2 class="subtitle">
-        韓国ヒップホップアーティスト・レーベルまとめ
+        NijiU Project まとめ
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
